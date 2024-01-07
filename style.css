@@ -1,0 +1,30 @@
+.container{
+    text-align: center;
+    padding: 100px;
+    
+}
+.banner{
+    color: rgb(12, 39, 65);
+     font-size:large;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-40%, -50%);
+}
+.textover{ 
+    color: rgb(51, 13, 205);
+    font-size:xx-large;
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   
+   transform: translate(-50%, -50%);
+
+}
+.discount{
+    color: red;
+    text text-align: center;
+     font-family: inter;
+     font-size: 88px;
+     font-weight: 600px;
+}
