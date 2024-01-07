@@ -24,7 +24,21 @@
 .discount{
     color: red;
     text text-align: center;
+     
      font-family: inter;
      font-size: 88px;
      font-weight: 600px;
+     
 }
+.image{
+    padding: 100px;
+    
+}
+.wellcome{
+    color: rgb(241, 240, 247);
+    font-size:100px;
+   position: absolute;
+   top: 200%;
+   left: 30%;
+   
+   transform: translate(-20%, -50%);
