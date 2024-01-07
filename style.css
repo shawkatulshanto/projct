@@ -24,10 +24,12 @@
 .discount{
     color: red;
     text text-align: center;
+    margin-bottom:20px;
      
      font-family: inter;
      font-size: 88px;
      font-weight: 600px;
+      
      
 }
 .image{
@@ -42,3 +44,23 @@
    left: 30%;
    
    transform: translate(-20%, -50%);
+}
+
+
+/*main section style*/
+.place{
+    padding: 130px;
+    border-radius: 10px;
+    background-color: burlywood;
+    text-align: center;
+}
+.description{
+padding-bottom: 10px;
+justify-content: flex-starts;
+   
+   
+}
+.description2{
+    display: flex;
+    display: inline;
+}
